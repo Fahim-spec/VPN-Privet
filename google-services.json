@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80040663199",
+    "project_id": "vpn-privet",
+    "storage_bucket": "vpn-privet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80040663199:android:9cbee073c29e85f6502aaa",
+        "android_client_info": {
+          "package_name": "com.doracone.VpnProNew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80040663199-3fedt8smqmsd54kulkfte0henhh8m1q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VzvHm4VzqgD8TcRma5rkWe-NMowhyQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80040663199-3fedt8smqmsd54kulkfte0henhh8m1q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
