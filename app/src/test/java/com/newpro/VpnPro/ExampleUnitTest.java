@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew;
+package com.newpro.VpnPro;
 
 import org.junit.Test;
 

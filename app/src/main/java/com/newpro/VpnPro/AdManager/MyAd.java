@@ -1,9 +1,9 @@
-package com.doracone.VpnProNew.AdManager;
+package com.newpro.VpnPro.AdManager;
 
 import android.app.Activity;
 import android.content.Context;
 
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.R;
 import com.pixplicity.easyprefs.library.Prefs;
 
 public class MyAd {

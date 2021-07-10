@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew;
+package com.newpro.VpnPro;
 
 import android.app.Application;
 import android.app.NotificationChannel;
@@ -14,7 +14,7 @@ import com.anchorfree.sdk.NotificationConfig;
 import com.anchorfree.sdk.TransportConfig;
 import com.anchorfree.sdk.UnifiedSDK;
 import com.anchorfree.vpnsdk.callbacks.CompletableCallback;
-import com.doracone.VpnProNew.Helper.Config;
+import com.newpro.VpnPro.Helper.Config;
 import com.facebook.ads.AudienceNetworkAds;
 import com.google.android.gms.ads.MobileAds;
 import com.northghost.caketube.OpenVpnTransportConfig;
@@ -23,7 +23,7 @@ import com.pixplicity.easyprefs.library.Prefs;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.doracone.VpnProNew.Helper.Config.appSecretCode;
+import static com.newpro.VpnPro.Helper.Config.appSecretCode;
 
 public class MyApplication extends Application {
 

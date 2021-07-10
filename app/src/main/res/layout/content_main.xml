@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="@drawable/bg">
+    android:background="@drawable/vpn_new">
 
 
     <RelativeLayout
@@ -22,7 +22,7 @@
             android:id="@+id/pulsator"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:pulse_color="#B07B38DA"
+            app:pulse_color="#F33224"
             app:pulse_count="5"
             app:pulse_duration="1500"
             app:pulse_interpolator="Accelerate"
@@ -69,7 +69,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/staring_vpn"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/colorAccent"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="@+id/relativeLayout"
         app:layout_constraintStart_toStartOf="@+id/relativeLayout"
@@ -81,7 +81,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/archivo_black"
         android:text="@string/app_name"
-        android:textColor="#DE343F65"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/relativeLayout"
@@ -173,7 +173,7 @@
         android:id="@+id/ll_subscription"
         android:layout_width="match_parent"
         android:layout_height="80dp"
-        android:background="@drawable/main_bg"
+        android:background="@drawable/activation_bg"
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:visibility="visible"

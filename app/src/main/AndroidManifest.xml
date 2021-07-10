@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.doracone.VpnProNew">
+    package="com.newpro.VpnPro">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
@@ -11,7 +11,7 @@
 
 
     <application
-        android:name="com.doracone.VpnProNew.MyApplication"
+        android:name="com.newpro.VpnPro.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -20,11 +20,11 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
-        <activity android:name="com.doracone.VpnProNew.Activity.WelcomeActivity" />
-        <activity android:name="com.doracone.VpnProNew.Activity.RatingActivity" />
-        <activity android:name="com.doracone.VpnProNew.Activity.CountryListActivity" />
-        <activity android:name="com.doracone.VpnProNew.Activity.SubscriptionActivity" />
-        <activity android:name="com.doracone.VpnProNew.Activity.SplashActivity">
+        <activity android:name="com.newpro.VpnPro.Activity.WelcomeActivity" />
+        <activity android:name="com.newpro.VpnPro.Activity.RatingActivity" />
+        <activity android:name="com.newpro.VpnPro.Activity.CountryListActivity" />
+        <activity android:name="com.newpro.VpnPro.Activity.SubscriptionActivity" />
+        <activity android:name="com.newpro.VpnPro.Activity.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.doracone.VpnProNew.Activity.MainActivity"
+            android:name="com.newpro.VpnPro.Activity.MainActivity"
             android:hardwareAccelerated="true" />
 
         <meta-data

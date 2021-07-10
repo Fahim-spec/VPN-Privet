@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Activity;
+package com.newpro.VpnPro.Activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,8 +8,8 @@ import android.widget.ImageButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.doracone.VpnProNew.Helper.Config;
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.Helper.Config;
+import com.newpro.VpnPro.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 

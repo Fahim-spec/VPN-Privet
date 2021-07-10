@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Activity;
+package com.newpro.VpnPro.Activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.anchorfree.partner.api.data.Country;
-import com.doracone.VpnProNew.Adapter.RegionListAdapter;
-import com.doracone.VpnProNew.Helper.Config;
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.Adapter.RegionListAdapter;
+import com.newpro.VpnPro.Helper.Config;
+import com.newpro.VpnPro.R;
 
 public class CountryListActivity extends AppCompatActivity implements RegionListAdapter.RegionListAdapterInterface{
 

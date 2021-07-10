@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Activity;
+package com.newpro.VpnPro.Activity;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -11,7 +11,7 @@ import android.widget.ImageButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.R;
 import com.pixplicity.easyprefs.library.Prefs;
 
 public class RatingActivity extends AppCompatActivity {

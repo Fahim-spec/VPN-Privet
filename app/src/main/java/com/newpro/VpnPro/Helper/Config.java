@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Helper;
+package com.newpro.VpnPro.Helper;
 
 import com.anchorfree.partner.api.data.Country;
 import com.anjlab.android.iab.v3.BillingProcessor;
@@ -15,7 +15,7 @@ public class Config {
 
     public static final String appSecretCode = "854df6289er6787sdf58sdr5wer6897sr587asdf858"; //Please contact me in what's app: +8801792064472
 
-    public static final String carrierID = "Dora_free_vpn";//Please contact me in what's app: +8801792064472
+    public static final String carrierID = "It_vpnrobot";//Please contact me in what's app: +8801792064472
     public static final String baseURL = "https://backend.northghost.com/";
 
     //LICENSE KEY FROM GOOGLE PLAY CONSOLE

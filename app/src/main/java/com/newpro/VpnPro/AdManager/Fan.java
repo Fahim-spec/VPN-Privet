@@ -1,10 +1,10 @@
-package com.doracone.VpnProNew.AdManager;
+package com.newpro.VpnPro.AdManager;
 
 import android.app.Activity;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.R;
 import com.facebook.ads.Ad;
 import com.facebook.ads.AdError;
 import com.facebook.ads.AdSize;

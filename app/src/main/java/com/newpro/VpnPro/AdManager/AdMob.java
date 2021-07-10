@@ -1,16 +1,16 @@
-package com.doracone.VpnProNew.AdManager;
+package com.newpro.VpnPro.AdManager;
 
 import android.app.Activity;
 import android.view.View;
 
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.R;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.LoadAdError;
 
-import static com.doracone.VpnProNew.Adapter.RegionListAdapter.finD;
+import static com.newpro.VpnPro.Adapter.RegionListAdapter.finD;
 
 public class AdMob {
 

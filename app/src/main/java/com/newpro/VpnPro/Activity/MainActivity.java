@@ -1,4 +1,4 @@
- package com.doracone.VpnProNew.Activity;
+ package com.newpro.VpnPro.Activity;
 
  import android.app.Activity;
  import android.content.ActivityNotFoundException;
@@ -40,10 +40,10 @@
  import com.anchorfree.vpnsdk.vpnservice.VPNState;
  import com.anjlab.android.iab.v3.BillingProcessor;
  import com.anjlab.android.iab.v3.TransactionDetails;
- import com.doracone.VpnProNew.AdManager.MyAd;
- import com.doracone.VpnProNew.Helper.Config;
- import com.doracone.VpnProNew.MyApplication;
- import com.doracone.VpnProNew.R;
+ import com.newpro.VpnPro.AdManager.MyAd;
+ import com.newpro.VpnPro.Helper.Config;
+ import com.newpro.VpnPro.MyApplication;
+ import com.newpro.VpnPro.R;
  import com.google.android.gms.ads.AdView;
  import com.google.android.material.navigation.NavigationView;
  import com.northghost.caketube.CaketubeTransport;
@@ -56,7 +56,7 @@
 
  import pl.bclogic.pulsator4droid.library.PulsatorLayout;
 
- import static com.doracone.VpnProNew.AdManager.AdMob.transporTConfigList;
+ import static com.newpro.VpnPro.AdManager.AdMob.transporTConfigList;
 
 
  public class MainActivity extends AppCompatActivity implements VpnStateListener, BillingProcessor.IBillingHandler, NavigationView.OnNavigationItemSelectedListener{

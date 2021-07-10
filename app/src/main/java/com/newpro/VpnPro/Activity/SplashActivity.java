@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Activity;
+package com.newpro.VpnPro.Activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,9 +10,9 @@ import com.anchorfree.partner.api.auth.AuthMethod;
 import com.anchorfree.partner.api.response.User;
 import com.anchorfree.vpnsdk.callbacks.Callback;
 import com.anchorfree.vpnsdk.exceptions.VpnException;
-import com.doracone.VpnProNew.Helper.Config;
-import com.doracone.VpnProNew.MyApplication;
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.Helper.Config;
+import com.newpro.VpnPro.MyApplication;
+import com.newpro.VpnPro.R;
 
 
 public class SplashActivity extends AppCompatActivity {

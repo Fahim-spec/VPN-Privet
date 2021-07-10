@@ -1,4 +1,4 @@
-package com.doracone.VpnProNew.Adapter;
+package com.newpro.VpnPro.Adapter;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,8 +14,8 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.anchorfree.partner.api.data.Country;
-import com.doracone.VpnProNew.MyApplication;
-import com.doracone.VpnProNew.R;
+import com.newpro.VpnPro.MyApplication;
+import com.newpro.VpnPro.R;
 import com.pixplicity.easyprefs.library.Prefs;
 
 import java.util.ArrayList;

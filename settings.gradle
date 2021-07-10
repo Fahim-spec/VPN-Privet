@@ -1,2 +1,2 @@
-rootProject.name='Global Vpn Pro'
+rootProject.name='com.newpro.VpnPro'
 include ':app'

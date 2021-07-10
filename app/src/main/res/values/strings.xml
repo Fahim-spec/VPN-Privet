@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VPN Privet</string>
+    <string name="app_name">VPN Pro</string>
     <string name="app_browser_name">Fahim Browser</string>
 
 
@@ -11,17 +11,17 @@
     <integer name="ad_type">1</integer>
 
 
-    <string name="admob_app_id">ca-app-pub-2044360008937062~6491468491</string>
+    <string name="admob_app_id">ca-app-pub-7260017968562476~3102143933</string>
 
-    <string name="admob_interstitial_id">ca-app-pub-2044360008937062/9855998437</string>
-    <string name="admob_banner_id">ca-app-pub-2044360008937062/5800369200</string>
+    <string name="admob_interstitial_id">ca-app-pub-7260017968562476/3015719300</string>
+    <string name="admob_banner_id">ca-app-pub-7260017968562476/2335857176</string>
 
     <string name="fan_interstitial_id"> </string>
-    <string name="fan_banner_id">ca-app-pub-2044360008937062/6843640522</string>
+    <string name="fan_banner_id"> </string>
 
 
     <!--Change Privacy Policy URL-->
-    <string name="privacy_policy_link">https://vpn-privet.flycricket.io/privacy.html</string>
+    <string name="privacy_policy_link">https://vpn-pro-3.flycricket.io/privacy.html</string>
     <!--END Change Privacy Policy URL-->
 
     <string name="vpn_process_name" translatable="false">:vpn</string>
@@ -36,14 +36,14 @@
 
 
     <string name="total_price_12_99">Total Price $1.99</string>
-    <string name="_12_99">$1.99</string>
+    <string name="_12_99">$0.99</string>
     <string name="monthly">Monthly</string>
     <string name="_6_months">6 Months</string>
-    <string name="total_price_53_99">Total Price $9.99</string>
-    <string name="_8_99">$1.99</string>
-    <string name="_5_83">$1.99</string>
+    <string name="total_price_53_99">Total Price $5.99</string>
+    <string name="_8_99">$0.99</string>
+    <string name="_5_83">$0.99</string>
     <string name="_12_months">12 Months</string>
-    <string name="total_price_66_99">Total Price $15.99</string>
+    <string name="total_price_66_99">Total Price $9.99</string>
     <string name="_12_99_month_7_day_free_trial">$1.99/month | 7 - day free trial</string>
 
 
@@ -56,7 +56,7 @@
     <string name="remove_ads">Remove ads</string>
     <string name="subscribe">Subscribe</string>
     <string name="default_region">DEFAULT REGION</string>
-    <string name="welcome_lo">Get unrestricted private online\n access from school and work\n using Dora VPN pro</string>
+    <string name="welcome_lo">Get unrestricted private online\n access from school and work\n using VPN Pro</string>
     <string name="subcriptions_notics">Premium subscriptions automatically renew and you will be charged through your google account. Unused portion of free trial is forfeited after purchase</string>
 
 </resources>

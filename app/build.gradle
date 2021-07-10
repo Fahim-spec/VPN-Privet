@@ -15,7 +15,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.doracone.GlobalVpnPro"
+        applicationId "com.newpro.VpnPro"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
@@ -25,7 +25,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         buildConfigField "String", "BASE_HOST", "\"https://backend.northghost.com\""
-        buildConfigField "String", "BASE_CARRIER_ID", "\"It_vpnprivet\""
+        buildConfigField "String", "BASE_CARRIER_ID", "\"It_vpnrobot\""
         buildConfigField "String", "BASE_OAUTH_METHOD", "\"anonymous\""
 
         buildConfigField "String", "SHARED_PREFS", "\"NORTHGHOST_SHAREDPREFS\""
